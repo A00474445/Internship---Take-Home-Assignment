@@ -18,3 +18,6 @@ You can use any .wav files, I will test the script using my own audio files. Ple
 - Under the Audio_Files, Just Create a Folder and place your .wav file in it.
 - Now execute the main.py file, it will prompt you to give your folder and file name as input.
 
+## Samples WAV Files Used From
+- https://samplelib.com/sample-wav.html#google_vignette
+
