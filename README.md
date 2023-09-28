@@ -15,7 +15,7 @@ You can use any .wav files, I will test the script using my own audio files. Ple
 
 ## How to Run
 - Clone the repository in your local environment.
-- Under the Audio_Files, Just Create a Folder and place your .wav file in it.
+- Under the Audio_Files Folder, Just Create a Folder and place your .wav file in it.
 - Now execute the main.py file, it will prompt you to give your folder and file name as input.
 
 ## Samples WAV Files Used From
