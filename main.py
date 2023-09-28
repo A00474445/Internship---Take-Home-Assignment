@@ -31,6 +31,7 @@ def plot_audio_signal(raw):
     plt.figure(1)
     plt.title("Sound Wave")
     plt.xlabel("Time")
+    plt.ylabel("Amplitude")
     plt.plot(time, signal)
     plt.show()
 
